@@ -1,6 +1,10 @@
 # 每个字符的延迟时间(秒)，控制打字速度
 delay_per_char: 0.5
 
+# 是否启用隐藏推理过程
+# true: 启用  false: 禁用
+hide_reasoning_content: false
+
 # 是否启用分段发送功能
 # true: 启用  false: 禁用
 enable_split: true
